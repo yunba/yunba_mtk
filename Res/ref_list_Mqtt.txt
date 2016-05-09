@@ -1,0 +1,5 @@
+Number of Language	3	For Customer Reference Only!
+Enum Value	Module Name	Region ID	Description	English	Tr_Chinese	Si_Chinese	
+DO NOT MODIFY	DO NOT MODIFY	DO NOT MODIFY	DO NOT MODIFY	*#0044#	*#0886#	*#0086#	
+STR_ID_THREEDO_NAME	Threedo	ICONTEXT	Threedo studio	Threedo	Èýžé	ÈýÎª	
+##number	1
